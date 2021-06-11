@@ -1,5 +1,5 @@
 #Lists
-#Different operation on List
+#Different operation on List in Python
 
 if __name__ == '__main__':
     N = int(input())
