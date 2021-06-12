@@ -1,5 +1,5 @@
 # String Split and Join
-# HackerRank Problem solved
+# HackerRank Problem solved using Python
 def split_and_join(line):
     # write your code here
     line=line.split()
