@@ -1,5 +1,5 @@
 # Symmetric Difference
-# HackerRank Problem Solved
+# HackerRank Problem Solved using Python
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 num1=int(input())
 set1=input().split()
