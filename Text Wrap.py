@@ -1,5 +1,5 @@
 #  Text Wrap
-#  Hackerrank Problem solved
+#  HackerRank Problem solved using Python
 
 import textwrap
 def wrap(string, max_width):
