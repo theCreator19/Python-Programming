@@ -1,6 +1,6 @@
 # Set .discard(), .remove() & .pop()
 
-# HackerRank Problem solved 
+# HackerRank Problem solved using Python
 
 n = int(input())
 s = set(map(int, input().split()))
